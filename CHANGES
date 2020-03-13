@@ -1,3 +1,6 @@
+1.9.8 (2020-03-12)
+	* Test for upload code
+
 1.9.7 (2014-12-18)
     * Fix state toggle when ADB is disabled.
 
